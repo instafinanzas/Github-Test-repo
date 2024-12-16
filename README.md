@@ -1,2 +1,2 @@
-# Github-Test-repo
-Testing out github repos 
+# Github-Del-Rey-Crypto-repo
+Adding my contributions and work in the crypto market to Github
